@@ -13,9 +13,9 @@ View all tracked issues in the [issues directory](issues/README.md).
 
 **Quick Stats:**
 - Total Issues: 2
-- Open: 2 🔴
+- Open: 0 🔴
 - In Progress: 0 🟡
-- Resolved: 0 🟢
+- Resolved: 2 🟢
 
 ## How to Report an Issue
 

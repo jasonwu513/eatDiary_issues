@@ -6,8 +6,8 @@ This directory contains all tracked issues for the eatDiary application.
 
 | ID | Title | Priority | Status | Type | Labels | GitHub |
 |----|-------|----------|--------|------|--------|--------|
-| [#001](001-navigation-i18n-labels.md) | Navigation Bar i18n - Hardcoded English Labels | P2 - High | 🔴 OPEN | Enhancement | `i18n`, `ui`, `navigation`, `core` | [GH#1](https://github.com/jasonwu513/eatDiary_issues/issues/1) |
-| [#002](002-food-image-disappears.md) | Food Image Disappears When Changing Food Type | P2 - High | 🔴 OPEN | Bug | `bug`, `ui`, `food-management`, `image-handling` | [GH#2](https://github.com/jasonwu513/eatDiary_issues/issues/2) |
+| [#001](001-navigation-i18n-labels.md) | Navigation Bar i18n - Hardcoded English Labels | P2 - High | 🟢 RESOLVED | Enhancement | `i18n`, `ui`, `navigation`, `core` | [GH#1](https://github.com/jasonwu513/eatDiary_issues/issues/1) |
+| [#002](002-food-image-disappears.md) | Food Image Disappears When Changing Food Type | P2 - High | 🟢 RESOLVED | Bug | `bug`, `ui`, `food-management`, `image-handling` | [GH#2](https://github.com/jasonwu513/eatDiary_issues/issues/2) |
 
 ## 🎯 Priority Levels
 
@@ -20,9 +20,9 @@ This directory contains all tracked issues for the eatDiary application.
 ## 📈 Statistics
 
 - **Total Issues**: 2
-- **Open**: 2 (🔴)
+- **Open**: 0 (🔴)
 - **In Progress**: 0 (🟡)
-- **Resolved**: 0 (🟢)
+- **Resolved**: 2 (🟢)
 - **Closed**: 0 (⚫)
 
 ## 🏷️ Issues by Type
