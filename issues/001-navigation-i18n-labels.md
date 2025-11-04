@@ -2,12 +2,13 @@
 
 **GitHub Issue**: [#1](https://github.com/jasonwu513/eatDiary_issues/issues/1)
 
-## Status: 🔴 OPEN
+## Status: 🟢 RESOLVED
 
 **Priority**: P2 - High
 **Type**: Enhancement
 **Component**: Core / Navigation
 **Created**: 2025-11-04
+**Resolved**: 2025-11-04
 **Labels**: `i18n`, `ui`, `navigation`, `core`
 
 ## 📋 Overview
@@ -38,11 +39,11 @@ The bottom navigation bar and navigation rail currently display hardcoded Englis
 
 ## ✅ Acceptance Criteria
 
-- [ ] Bottom navigation bar displays localized labels
-- [ ] Navigation rail displays localized labels
-- [ ] Labels update when user changes language preference
-- [ ] All navigation items are properly translated (Traditional Chinese & English)
-- [ ] No hardcoded strings in navigation components
+- [x] Bottom navigation bar displays localized labels
+- [x] Navigation rail displays localized labels
+- [x] Labels update when user changes language preference
+- [x] All navigation items are properly translated (Traditional Chinese & English)
+- [x] No hardcoded strings in navigation components
 
 ## 🛠️ Proposed Solution
 
