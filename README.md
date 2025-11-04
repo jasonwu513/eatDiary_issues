@@ -7,6 +7,16 @@
 ## About eatDiary
 eatDiary is a Flutter-based mobile application designed to help users track their daily meals, nutrition, and eating habits. This repository is dedicated to collecting bug reports, feature requests, and user feedback.
 
+## 📂 Tracked Issues
+
+View all tracked issues in the [issues directory](issues/README.md).
+
+**Quick Stats:**
+- Total Issues: 1
+- Open: 1 🔴
+- In Progress: 0 🟡
+- Resolved: 0 🟢
+
 ## How to Report an Issue
 
 Before creating a new issue, please:
